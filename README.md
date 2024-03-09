@@ -1,2 +1,2 @@
-# Skyler's GitHub Repository
-A public repository of Python code and R code to display applied knowledge of quantitative investment management.
+# Respository Description
+Python code including user-defined functions (UDF) intended to demonstrate general applied skill in Financial Engineering.
